@@ -1,5 +1,7 @@
 /*
 Made by William Lehmus
+This tool converts NPY images to PNG format.
+
 Based on the video tutorial by Daniel Schiffman. Link below. 
 https://www.youtube.com/watch?v=gX7U6WA7Ffk&index=2&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ
 Get more data at: https://github.com/googlecreativelab/quickdraw-dataset
