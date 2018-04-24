@@ -4,7 +4,7 @@ This tool converts NPY images to PNG format.
 
 Based on the video tutorial by Daniel Schiffman. Link below. 
 https://www.youtube.com/watch?v=gX7U6WA7Ffk&index=2&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ
-Get more data at: https://github.com/googlecreativelab/quickdraw-dataset
+Get more data at: https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap
 This scetch converts .npy (numpy image format)
 to png files and places in /data/ subdirectory 
 The google doodle images are 28x28 pixels = 784 pixels
@@ -16,7 +16,7 @@ Screen turns green when done.
 
 int nr_of_images = 10000;                                          //Number of images to extract from dataset
 String output_folder = "mushroom";                                  //Name of subfolder to data to place images in /data/rainbow for instance
-String dataset = "C:/Downloads/Doodle dataset/mushroom.npy";        //Path to dataset file (.npy format)
+String dataset = "C:/Downloads/mushroom.npy";        //Path to dataset file (.npy format)
 
 
 
