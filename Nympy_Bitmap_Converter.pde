@@ -1,5 +1,5 @@
 /*
-Made by William Lehmus
+Made by William Lehmus 2018
 This tool converts NPY images to PNG format.
 
 Based on the video tutorial by Daniel Schiffman. Link below. 
