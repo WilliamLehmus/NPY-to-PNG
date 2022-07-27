@@ -2,6 +2,10 @@
 Made by William Lehmus 2018
 This tool converts NPY images to PNG format.
 
+Checked 2022-07-27. Still functional. A new version of processing (version 4 is out)
+Use Processing 3 for best compatibility.
+
+
 Based on the video tutorial by Daniel Schiffman. Link below. 
 https://www.youtube.com/watch?v=gX7U6WA7Ffk&index=2&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ
 Get more data at: https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap
